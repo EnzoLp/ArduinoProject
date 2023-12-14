@@ -37,4 +37,4 @@ Planning séances :
   7ème séance : 
     - Séance libre pour le potentiel retard accumulé durant les séances précédentes. 
 
-![alt tag](https://github.com/EnzoLp/ArduinoProject/issues/1#issue-2042287453)
+![alt tag](https://github.com/EnzoLp/ArduinoProject/files/13677244/diagrammeGantt.pdf)
