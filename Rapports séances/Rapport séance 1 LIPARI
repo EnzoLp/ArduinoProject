@@ -8,3 +8,7 @@
 
     Je me suis ensuite intéressé à la photorésistance ainsi qu'à son fonctionnement, et j'ai appris que ce composant est en fait une résistance variable en fonction de l'intensité lumineuse.
     J'ai appris également à câbler une photorésistance. (Photo ci-contre) 
+
+  ![alt tag](https://github.com/EnzoLp/ArduinoProject/assets/152536313/71e96bf6-bab2-40cb-8cd6-03430e99e3fc)
+
+J'ai ensuite cherché comment un panneau solaire fonctionnait véritablement, voici le schéma ci-contre: 
