@@ -1,0 +1,49 @@
+Rapport concernant Panneau Solaire Intelligent Inclinable - Spécifications et Besoins du Projet Arduino
+
+Le projet vise à concevoir un panneau solaire intelligent doté d'un système d'inclinaison automatique, optimisant ainsi son exposition aux rayons solaires tout au long de la journée,
+combinant capteurs et actionneurs pour assurer un suivi précis de la direction du soleil.
+
+
+1. Objectif du Projet :
+L'objectif principal est de maximiser l'efficacité énergétique du panneau solaire en ajustant automatiquement son angle d'inclinaison, assurant ainsi une capture optimale de l'énergie 
+solaire.
+
+2. Spécifications Techniques :
+a. Capteurs de Lumière :
+- Intégration de capteurs de lumière ambiante pour détecter l'intensité lumineuse. (Photorésistance)
+b. Système d'Inclinaison :
+- Mise en place de servomoteurs pour ajuster l'inclinaison du panneau.
+- Utilisation d'un algorithme de contrôle pour garantir un suivi précis du soleil.
+c. Alimentation et Batterie :
+- Le panneau solaire permettra de recharger un téléphone par exemple.
+
+
+Ce projet vise à exploiter efficacement l'énergie solaire tout en assurant une facilité d'utilisation et une fiabilité optimales. La combinaison de capteurs avancés, 
+d'un algorithme de suivi solaire sophistiqué  positionne ce projet comme une solution innovante pour la capture d'énergie solaire.
+
+
+Rapport de Recherche sur les Composants pour le Projet de Panneau Solaire Intelligent Arduino
+Introduction :
+
+La séance avait pour objectif de mener des recherches afin d'identifier les composants nécessaires à la réalisation du projet de panneau solaire intelligent basé sur Arduino. 
+Cette étape cruciale vise à établir une base solide pour la conception du système d'inclinaison.
+
+
+Recherches Effectuées :
+Au cours de la séance, j'ai exploré diverses sources en ligne, notamment des sites spécialisés dans la vente de composants électroniques, 
+des forums de bricolage électronique et des documentations techniques. Les recherches ont été axées sur les composants clés suivants :
+
+* Capteurs de Lumière :(photorésistances)
+    * Des capteurs de lumière ambiante précis pour mesurer l'intensité lumineuse environnante.
+* Actionneurs (Moteurs ou Servomoteurs) :
+    * Des moteurs ou servomoteurs capables d'ajuster l'inclinaison du panneau solaire de manière précise.
+
+
+*                 Panneau solaire (permet de capter la lumiere
+*                 Clous, bois (pour découpe laser qui va permettre de fabriquer le socle et le projet en lui même).
+*                 Composant qui va permettre d’alimenter le téléphone grâce au panneau solaire TP4 056.
+
+
+
+Les recherches effectuées ont permis d'identifier les composants clés nécessaires à la réalisation du projet de panneau solaire intelligent Arduino. 
+La prochaine étape consistera à procéder à l'acquisition de ces composants et à initier la phase de prototypage. 
